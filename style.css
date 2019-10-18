@@ -1,0 +1,16 @@
+.form input {
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background:  #c6c2c2;
+  width: 70%;
+  border: 0;
+  margin: 0 0 14px;
+  padding: 14px;
+  box-sizing: border-box;
+  font-size: 13px;
+}
+.login-page {
+  width: 375px;
+  padding: 8% 0 0;
+  margin: auto;
+}
